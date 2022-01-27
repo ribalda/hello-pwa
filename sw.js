@@ -1,9 +1,9 @@
 var cacheName = 'hello-pwa';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/css/style.css',
-  '/js/main.js'
+  'https://ribalda.github.io/hello-pwa/',
+  'https://ribalda.github.io/hello-pwa/index.html',
+  'https://ribalda.github.io/hello-pwa/css/style.css',
+  'https://ribalda.github.io/hello-pwa/js/main.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
